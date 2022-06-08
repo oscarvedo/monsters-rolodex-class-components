@@ -1,0 +1,17 @@
+.search-box {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 190px;
+  line-height: 30px;
+  margin-bottom: 55px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.search-box::placeholder {
+  text-align: center;
+  font-size: 15px;
+}
+
